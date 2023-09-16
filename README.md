@@ -14,16 +14,16 @@ To Develop a convolutional deep neural network for digit classification and to v
 ## DESIGN STEPS
 
 
-###Step 1: 
+### Step 1: 
 Start by importing all the necessary libraries. And load the Data into Test sets and Training sets.
 
-###Step 2: 
+### Step 2: 
 Then we move to normalization and encoding of the data.
 
-###Step 3:
+### Step 3:
 The Model is then built using a Conv2D layer, MaxPool2D layer, Flatten layer, and 2 Dense layers of 16 and 10 neurons respectively.
 
-###Step 4: 
+### Step 4: 
 The necessary Validating parameters are visualized for inspection.
 
 Step 5: 
